@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.facebook{
+    margin: 10%;
+}
+.fb{
+    color: rgb(19, 120, 216);
+    font-weight: 900;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 18% 18% 0 5%;
+    font-size: 40px;
+}
+.fb_{
+    font-size: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-body{
+    box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    width: 360px;
+    margin-top: 20px;
+    background-color: white;
+}
+.form-group{
+    width: 300px;
+    height: 30px;
+    display: block;
+    align-content: space-between;
+    margin: 0px auto;  
+}
+input .form-control{
+    padding: 10px;
+}
+.login__to{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 8px 0px;
+}
+#login, #register{
+    height: 43px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    display: block;
+    align-content: space-between;
+    margin: auto;
+}
+#login{
+    width: 300px;
+}
+#register{
+    background-color: rgb(45, 158, 45);
+    border: none;
+    width: 50%;
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+}
+.forgot_acc{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    padding-top: 15px;
+}
